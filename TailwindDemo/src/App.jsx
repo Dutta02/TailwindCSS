@@ -28,12 +28,13 @@ function App() {
               <br />
               sequi iure accusantium tempore
             </p>
+            <p className='bg-purple-500 sm:bg-yellow-300 lg:font-black lg:text-5xl  font-bold text-8xl px-52 my-20'>alla lla la alllaa oie oie alla llla lalla oie oie</p>
     
             <div className="space-x-4">
-              <button className="bg-purple-800 px-3 py-2 rounded-2xl text-white hover:text-slate-900 hover:bg-fuchsia-700">
+              <button className="btn">
                 Buy Now
               </button>
-              <button className="bg-purple-800 px-3 py-2 rounded-2xl text-white hover:text-slate-900 hover:bg-fuchsia-700">
+              <button className="btn">
                 Contact Us
               </button>
             </div>
